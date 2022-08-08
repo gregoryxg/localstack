@@ -60,3 +60,13 @@ api_states
 /integration/lambdas/golang/handler.zip
 /tests/integration/lambdas/golang/handler.zip
 tmp/
+data/cache/machine.json
+data/cache/server.test.pem
+data/cache/server.test.pem.crt
+data/cache/server.test.pem.key
+data/data/startup_info.json
+volume/cache/machine.json
+volume/cache/server.test.pem
+volume/cache/server.test.pem.crt
+volume/cache/server.test.pem.key
+volume/logs/localstack_infra.err
